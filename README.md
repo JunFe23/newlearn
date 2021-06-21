@@ -83,4 +83,10 @@
 ![image](https://user-images.githubusercontent.com/75111342/122748298-ffafc900-d2c6-11eb-89d2-78a853e4d79a.png)
 
 
-- 강의 커리큘럼 및 후기 페이지
+# 개발일지
+
+Back End
+
+1. 맡은 업무
+
+- 
