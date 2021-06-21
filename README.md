@@ -18,3 +18,17 @@
 
 # 1. 요구사항 분석
 ![image](https://user-images.githubusercontent.com/75111342/122737278-d9386080-d2bb-11eb-87d5-b93bded7e5bf.png)
+
+# 2. 테이블 설계
+
+- ERD 설계
+![image](https://user-images.githubusercontent.com/75111342/122737426-fbca7980-d2bb-11eb-86c8-cc12f127e0d2.png)
+
+- 테이블 구성
+![image](https://user-images.githubusercontent.com/75111342/122737475-08e76880-d2bc-11eb-9461-507ba477b8e4.png)
+
+# 3. 구현 페이지
+- 메인페이지
+![image](https://user-images.githubusercontent.com/75111342/122745122-a2664880-d2c3-11eb-976d-27d10f01733e.png)
+
+- 
