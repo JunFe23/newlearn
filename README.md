@@ -22,6 +22,8 @@
 # 2. 테이블 설계
 
 - ERD 설계
+
+
 ![image](https://user-images.githubusercontent.com/75111342/122737426-fbca7980-d2bb-11eb-86c8-cc12f127e0d2.png)
 
 - 테이블 구성
@@ -29,8 +31,56 @@
 
 ![image](https://user-images.githubusercontent.com/75111342/122737475-08e76880-d2bc-11eb-9461-507ba477b8e4.png)
 
-# 3. 구현 페이지
-- 메인페이지
+# 3. 페이지 구현
+- 메인 페이지
+
+
 ![image](https://user-images.githubusercontent.com/75111342/122745122-a2664880-d2c3-11eb-976d-27d10f01733e.png)
 
-- 
+- 로그인 페이지
+
+
+![image](https://user-images.githubusercontent.com/75111342/122746493-063d4100-d2c5-11eb-9cd3-0d1dde6439fc.png)
+
+- 회원가입 페이지
+
+
+![image](https://user-images.githubusercontent.com/75111342/122746609-22d97900-d2c5-11eb-846f-62f3390c8ba2.png)
+
+- 비밀번호 찾기 페이지
+
+
+![image](https://user-images.githubusercontent.com/75111342/122747142-aabf8300-d2c5-11eb-97ac-edf2ab0fa28c.png)
+
+- 강의 리스트 페이지
+
+
+![image](https://user-images.githubusercontent.com/75111342/122747822-77312880-d2c6-11eb-8692-66298b7647b4.png)
+
+- 강의 상세 페이지
+
+
+![image](https://user-images.githubusercontent.com/75111342/122747937-9a5bd800-d2c6-11eb-84ee-ec5dbee578cb.png)
+
+- 강의 커리큘럼 및 후기 페이지
+
+
+![image](https://user-images.githubusercontent.com/75111342/122748027-b5c6e300-d2c6-11eb-8bcd-5073318b97de.png)
+
+- 강의 재생 페이지
+
+
+![image](https://user-images.githubusercontent.com/75111342/122748107-ca0ae000-d2c6-11eb-87f8-e9d58e68f790.png)
+
+- 장바구니 페이지
+
+
+![image](https://user-images.githubusercontent.com/75111342/122748188-e018a080-d2c6-11eb-86f6-9b5317b9a22a.png)
+
+- 결제 페이지
+
+
+![image](https://user-images.githubusercontent.com/75111342/122748298-ffafc900-d2c6-11eb-89d2-78a853e4d79a.png)
+
+
+- 강의 커리큘럼 및 후기 페이지
