@@ -7,8 +7,8 @@
 - 개발 인원 : 5명
 - 사용환경 : Apache Tomcat 8.0
 - IDE : Intellij
-- 사용 프레임워크 : JAVA11, Springboot(2.4x), Spring Security, Thymeleaf, Mybatis,
-- 사용 기술 : MVC, jQuetry, Ajax, Mail API, 결제API
+- 사용 프레임워크 : JAVA11, Springboot(2.4x), Spring Security, Thymeleaf, Mybatis
+- 사용 기술 : MVC, jQuery, Ajax, Mail API, 결제API
 - Database : MySQL
 - 개발기간 : 2021.05.01  ~ 2021.06.08
 
